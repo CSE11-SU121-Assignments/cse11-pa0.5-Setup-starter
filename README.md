@@ -16,7 +16,7 @@
 - Please submit your writeup to the [PA0.5 gradescope assignment](https://www.gradescope.com/courses/257565/assignments/1129640/submissions).
 
 ## Setup (4.5 points)
-Follow the instructions in the video tutorial for your chosen environment (Windows, Mac, or Repl.it) to set up your environment for writing code in Java. You can also use this document for your reference. Write a few sentences describing which environment you will be using, and the steps you took to set it up. Note that you're free to use another environment if you like, we just don't have tutorials for other environments.
+Follow the instructions in the video tutorial for your chosen environment (Windows, Mac, or CloudLabs) to set up your environment for writing code in Java. You can also use this document for your reference. Write a few sentences describing which environment you will be using, and the steps you took to set it up. Note that you're free to use another environment if you like, we just don't have tutorials for other environments.
 
 ## Running Code (4.5 points)
 
@@ -30,5 +30,5 @@ class IntroductionTo {
 	}
 }
 ```
-Compile and run your program. You can find instructions for "Editing Your Java Code" and "Running Your Java Code" [here](https://docs.google.com/document/d/1WKkep1iN-23ep3YhHnB_ko2v7U-1uxhR6Y68T3TLkcU/view). Instructions are also included in the setup video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing), [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing), and [Cloudlabs](https://drive.google.com/file/d/1biIrl2hBOSZXBRmjXKPYSwma_vLHKUrI/view?usp=sharing). Finally, take a screenshot of your terminal (including the commands you ran to compile and run the code) and include it in your [writeup](https://docs.google.com/document/d/1FzI0y2czposU5sY_YX5zvu9f2c3AhwEpCSe3kzLQXYc/edit?usp=sharing).
+Compile and run your program. You can find instructions for "Editing Your Java Code" and "Running Your Java Code" [here](https://docs.google.com/document/d/1WKkep1iN-23ep3YhHnB_ko2v7U-1uxhR6Y68T3TLkcU/view). Instructions are also included in the setup video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing), [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing), and [CloudLabs](https://drive.google.com/file/d/1biIrl2hBOSZXBRmjXKPYSwma_vLHKUrI/view?usp=sharing). Finally, take a screenshot of your terminal (including the commands you ran to compile and run the code) and include it in your [writeup](https://docs.google.com/document/d/1FzI0y2czposU5sY_YX5zvu9f2c3AhwEpCSe3kzLQXYc/edit?usp=sharing).
 
