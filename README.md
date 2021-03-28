@@ -4,7 +4,7 @@
 - Set up and test your Java development environment
 
 ## Process
-- General instructions for setting up your environment can be found in [this](https://docs.google.com/document/d/1WKkep1iN-23ep3YhHnB_ko2v7U-1uxhR6Y68T3TLkcU/view) document, and as video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing), [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing), and [CloudLabs](https://drive.google.com/file/d/1biIrl2hBOSZXBRmjXKPYSwma_vLHKUrI/view?usp=sharing).
+- General instructions for setting up your environment can be found in [this](Instructions for setting up Java on your own machine.pdf) document, and as video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing)  and [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing). Instructions for accessing CloudLabs can be found [here](https://drive.google.com/file/d/1biIrl2hBOSZXBRmjXKPYSwma_vLHKUrI/view?usp=sharing).
 - If you get stuck at any point, do any one of the following:
     - Take a screenshot and ask on Piazza! (Not sure how to take a screenshot? Try Googling it for your particular platform, like “screenshot microsoft windows” or “screenshot chromebook” or “screenshot os x”, or ask how on Piazza and we can help.)
     - Join a 1-on-1 or group [help session](https://ucsd-cse11-sp21.github.io/#staff)!
