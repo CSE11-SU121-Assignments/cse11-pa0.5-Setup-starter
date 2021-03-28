@@ -20,7 +20,7 @@ Follow the instructions in the video tutorial for your chosen environment (Windo
 
 ## Running Code (4.5 points)
 
-Create a new directory or repl named pa0.5. Create a new file in pa0.5 named:
+Create a new directory named pa05. Create a new file in pa05 named:
 `IntroductionTo.java`
 Put the following code into that file (you can copy-paste):
 ```
