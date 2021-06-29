@@ -16,7 +16,7 @@
 - Please submit your writeup to the [PA0.5 gradescope assignment](https://www.gradescope.com/courses/277487/assignments/1360355/submissions).
 
 ## Setup (4.5 points)
-Follow the instructions in the video tutorial for your chosen environment (Windows, Mac, or CloudLabs) to set up your environment for writing code in Java. You can also use this document for your reference. Write a few sentences describing which environment you will be using, and the steps you took to set it up. Note that you're free to use another environment if you like, we just don't have tutorials for other environments.
+Follow the instructions in the video tutorial for your chosen environment (Windows, Mac, or CloudLabs) to set up your environment for writing code in Java (including your Java version number). You can also use this document for your reference. Write a few sentences describing which environment you will be using, and the steps you took to set it up. Note that you're free to use another environment if you like, we just don't have tutorials for other environments.
 
 ## Running Code (4.5 points)
 
